@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.Homepage {
+  height: 770px;
+  display: flex;
+  /* width: 770px; */
+  background: #663399;
+}
+
+.Button {
+  /* background: black; */
+}
