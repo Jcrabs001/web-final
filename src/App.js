@@ -6,9 +6,11 @@ import Homepage from './nav-video.svg';
 function App() {
   return (
     <div className="App">
-      
-      <img src={Homepage} class="Homepage"></img>
-      {/* <img src={Button} class="Button"></img> */}
+      {/* <div className="Index"></div> */}
+      {/* <div className="Announcement"> */}
+        {/* Southwestern College Baseball Fundraiser */}
+      {/* </div> */}
+        
     </div>
   );
 }
