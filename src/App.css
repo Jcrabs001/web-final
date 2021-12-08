@@ -8,9 +8,9 @@
   /* background: #663399; */
 /* } */ 
 
-.Button {
+/* .Button { */
   /* background: black; */
-}
+/* } */
 
 .App {
   height: 100vh;
@@ -41,11 +41,11 @@
   background-repeat: no-repeat;
 }
 
-.Index{
+/* .Index{
   height: 100vh;
 
   background-image: url('./Index.svg');
   position: center;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
 
-}
+/* } */
